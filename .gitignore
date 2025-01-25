@@ -1,0 +1,17 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment files
+.env
+.venv
+
+# Ignore logs and temp files
+*.log
+tmp/
+
+# Ignore node dependencies (if applicable)
+node_modules/
+package-lock.json
